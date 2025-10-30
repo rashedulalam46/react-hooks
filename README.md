@@ -2,7 +2,7 @@
 
 Welcome to **React Hooks Examples**, a collection of simple and practical examples demonstrating how to use React Hooks effectively in modern React applications.
 
-> 💡 This repository is maintained by [Rashedul Alam](https://github.com/rashedulalam46) to explore and demonstrate the power of React Hooks through hands-on coding examples.
+
 
 ---
 
@@ -33,7 +33,46 @@ Here are some of the hooks demonstrated in this repository:
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
-
-```bash
+```
 git clone https://github.com/rashedulalam46/react-hooks.git
 cd react-hooks
+```
+2. Install dependencies
+```   
+npm install
+```   
+4. Start the development server
+```   
+npm start
+```   
+
+The app will be available at http://localhost:3000
+
+📁 Folder Structure
+```   
+react-hooks/
+├── src/
+│   ├── hooks/           # Custom hooks
+│   ├── components/      # Example components
+│   ├── examples/        # Hook-specific examples
+│   ├── App.js
+│   └── index.js
+├── public/
+├── package.json
+└── README.md
+```   
+🧠 Learning Goals
+
+Understand the purpose and usage of each React Hook
+
+Learn how to avoid common pitfalls when using hooks
+
+Explore performance optimization using useMemo and useCallback
+
+Create and share custom hooks for reusability
+
+🌟 Contributions
+
+Contributions, feedback, and suggestions are welcome!
+Feel free to open an issue or pull request to improve this project.
+
