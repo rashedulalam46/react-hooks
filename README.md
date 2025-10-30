@@ -40,8 +40,13 @@ cd react-hooks
 2. Install dependencies
 ```   
 npm install
+```
+
+3. Start the development server
+```
+npm start
 ```   
-4. Start the development server
+5. Start the development server
 ```   
 npm start
 ```   
