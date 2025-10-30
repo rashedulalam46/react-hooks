@@ -2,14 +2,11 @@
 
 Welcome to **React Hooks Examples**, a collection of simple and practical examples demonstrating how to use React Hooks effectively in modern React applications.
 
-
-
 ---
 
 ## 🚀 Overview
 
-React Hooks were introduced in React 16.8 to allow functional components to manage **state**, **side effects**, and **lifecycle** features — all without using class components.  
-This repository includes examples of common hooks and their real-world use cases.
+React Hooks were introduced in React 16.8 to allow functional components to manage **state**, **side effects**, and **lifecycle** features — all without using class components. This repository includes examples of common hooks and their real-world use cases.
 
 ---
 
@@ -37,19 +34,15 @@ Here are some of the hooks demonstrated in this repository:
 git clone https://github.com/rashedulalam46/react-hooks.git
 cd react-hooks
 ```
-2. Install dependencies
+### 2. Install dependencies
 ```   
 npm install
 ```
 
-3. Start the development server
+### 3. Start the development server
 ```
 npm start
-```   
-5. Start the development server
-```   
-npm start
-```   
+```    
 
 The app will be available at http://localhost:3000
 
