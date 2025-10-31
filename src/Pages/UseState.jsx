@@ -9,7 +9,7 @@ function UseState() {
 
     return (
         <div>
-            <h1>Use State Hook</h1>
+            <h1>Use State Hook Practice</h1>
             <h2>My Name is {Name}</h2>
             <button className='btn btn-primary' onClick={changeName}>Change Name</button>
         </div>
