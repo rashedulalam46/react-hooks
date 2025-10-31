@@ -33,7 +33,8 @@ function UseState() {
                     <div className="mb-3">
                         <label htmlFor="password" className="form-label">Password</label>
                         <input type="password" className="form-control" id="password" />
-                    </div>
+                    </div>                    
+                    <button type="reset" className="btn btn-secondary ms-2">Reset</button>
                     <button type="submit" className="btn btn-primary">Submit</button>
                 </form>
             </div>
