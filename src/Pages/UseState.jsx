@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 
-
-
 function UseState() {
     const [Name, setName] = useState("Josim");
 
