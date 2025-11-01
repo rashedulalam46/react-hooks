@@ -2,13 +2,12 @@
 
 Welcome to **React Hooks Examples**, a collection of simple and practical examples demonstrating how to use React Hooks effectively in modern React applications.
 
----
+
 
 ## 🚀 Overview
 
 React Hooks were introduced in React 16.8 to allow functional components to manage **state**, **side effects**, and **lifecycle** features — all without using class components. This repository includes examples of common hooks and their real-world use cases.
 
----
 
 ## 🧩 Hooks Covered
 
@@ -46,7 +45,7 @@ npm start
 
 The app will be available at http://localhost:3000
 
-📁 Folder Structure
+## 📁 Folder Structure
 ```   
 react-hooks/
 ├── src/
@@ -59,17 +58,13 @@ react-hooks/
 ├── package.json
 └── README.md
 ```   
-🧠 Learning Goals
+## 🧠 Learning Goals
+- Understand the purpose and usage of each React Hook
+- Learn how to avoid common pitfalls when using hooks
+- Explore performance optimization using useMemo and useCallback
+- Create and share custom hooks for reusability
 
-Understand the purpose and usage of each React Hook
-
-Learn how to avoid common pitfalls when using hooks
-
-Explore performance optimization using useMemo and useCallback
-
-Create and share custom hooks for reusability
-
-🌟 Contributions
+## 🌟 Contributions
 
 Contributions, feedback, and suggestions are welcome!
 Feel free to open an issue or pull request to improve this project.
