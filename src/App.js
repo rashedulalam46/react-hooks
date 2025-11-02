@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import UseState from './Pages/UseState';
-import UseEffect from './Pages/UseEffect';
+import UseState from './pages/UseState';
+import UseEffect from './pages/UseEffect';
 
 function App() {
   return (
